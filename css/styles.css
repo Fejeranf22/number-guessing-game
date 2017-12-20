@@ -1,0 +1,23 @@
+* {
+  font-family:"Open Sans";
+  margin: 0;
+  padding: 0;
+}
+
+h1  {
+  padding-top: 15px;
+  text-align: center;
+}
+
+.hello {
+  font-size: 90px;
+}
+
+.intro {
+  margin-top: 20px;
+  padding :40px;
+  color: white;
+  background-color: lightslategray;
+  border: dashed aliceblue;
+  border-radius: 50px;
+  box-shadow: -1em 2em 3em lightslategrey;
